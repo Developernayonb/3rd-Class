@@ -1,0 +1,70 @@
+/*=========== Header CSS  ==============*/
+.header-area h1 {
+    border: 2px solid red;
+    text-align: center;
+    color: #fff;
+    padding: 40px;
+    font-size: 35px;
+    background-color: #756875;
+}
+/*=========== Banner CSS  ==============*/
+.banner-section {
+    border: 2px solid red;
+    margin-top: -24px;
+    height: 500px;
+    width: 100%;
+    background: greenyellow;
+}
+
+.banner-section h1 {
+    text-align: center;
+    color: gray;
+}
+
+.banner-section p {
+    text-align: center;
+    font-size: 25px;
+}
+/*=========== Container CSS  ==============*/
+.container {
+    border: 2px solid red;
+    height: 350px;
+}
+
+.content {
+    background: green;
+    min-height: 100%;
+    padding-top: 1px;
+    width: 60%;
+    float: left;
+}
+.content h2 {
+    text-align: center;
+    color: chartreuse;
+}
+.blog {
+    background: gray;
+    height: 100%;
+    float: right;
+    width: 40%;
+}.blog h3 {
+    text-align: center;
+    color: lawngreen;
+    text-transform: uppercase;
+}
+
+/*=========== Footer CSS  ==============*/
+.footer {
+    border: 2px solid red;
+    background: #756875;
+}
+
+.footer h1 {
+    text-align: center;
+    color: #ffff;
+}
+
+.footer p {
+    text-align: center;
+    color: #fff;
+}
